@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 62171ab7a90bd364eb9a995d0acad23e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _DroneController: {instanceID: 0}
+  - _FlyButton: {instanceID: 0}
+  - _LandButton: {instanceID: 0}
+  - _Controls: {instanceID: 0}
+  - _RaycastManager: {instanceID: 0}
+  - _PlaneManager: {instanceID: 0}
+  - _Drone: {fileID: -927199367670048503, guid: bed66fa02a04242a5b1d00c71e6a805f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
